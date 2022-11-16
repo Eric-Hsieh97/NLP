@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "The positive comments of charging pile service",
+      "symbolSize": 20,
+      "x": -266.82776,
+      "y": 299.6904,
+      "value": 20,
+      "category": 0
+    },
+    {
+      "id": "1",
+      "name": "Scenario events",
+      "symbolSize": 15,
+      "x": -418.08344,
+      "y": 446.8853,
+      "value": 15,
+      "category": 1
+    },
+    {
+      "id": "2",
+      "name": "Modifiers",
+      "symbolSize": 15,
+      "x": -212.76357,
+      "y": 245.29176,
+      "value": 15,
+      "category": 2
+    },
+    {
+      "id": "3",
+      "name": "Vocabulary terms",
+      "symbolSize": 15,
+      "x": -242.82404,
+      "y": 235.26283,
+      "value": 15,
+      "category": 3
+    },
+    {
+      "id": "4",
+      "name": "Place category",
+      "symbolSize": 15,
+      "x": -379.30386,
+      "y": 429.06424,
+      "value": 15,
+      "category": 4
+    },
+    {
+      "id": "5",
+      "name": "Personality characteristics",
+      "symbolSize": 15,
+      "x": -417.26337,
+      "y": 406.03506,
+      "value": 15,
+      "category": 5
+    },
+    {
+      "id": "6",
+      "name": "Charge",
+      "symbolSize": 10,
+      "x": -332.6012,
+      "y": 485.16974,
+      "value": 10,
+      "category": 1
+    },
+    {
+      "id": "7",
+      "name": "Parking",
+      "symbolSize": 10,
+      "x": -382.69568,
+      "y": 475.09113,
+      "value": 10,
+      "category": 1
+    },
+    {
+      "id": "8",
+      "name": "Queue",
+      "symbolSize": 10,
+      "x": -320.384,
+      "y": 387.17325,
+      "value": 10,
+      "category": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "1",
+      "target": "0"
+    },
+    {
+      "source": "2",
+      "target": "0"
+    },
+    {
+      "source": "3",
+      "target": "0"
+    },
+    {
+      "source": "4",
+      "target": "0"
+    },
+    {
+      "source": "5",
+      "target": "0"
+    },
+    {
+      "source": "6",
+      "target": "1"
+    },
+    {
+      "source": "7",
+      "target": "1"
+    },
+    {
+      "source": "8",
+      "target": "1"
+    }
+  ],
+  "categories": [
+    {
+      "name": "A"
+    },
+    {
+      "name": "B"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "D"
+    },
+    {
+      "name": "E"
+    },
+    {
+      "name": "F"
+    }
+  ]
+}
