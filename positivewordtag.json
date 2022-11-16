@@ -1,0 +1,21 @@
+{
+  "nodes":  [
+    { "name": "The positive comments of charging pile service",             "group":  1 },
+    { "name": "Scenario events",           "group":  2 },
+    { "name": "Charge",           "group":  2 },
+    { "name": "Parking",           "group":  2 },
+    { "name": "Queue",           "group":  2 },
+    { "name": "Modifiers",    "group":  3 },
+    { "name": "Vocabulary terms",    "group":  4 },
+    { "name": "Place category",    "group":  5 },
+    { "name": "Personality characteristics",    "group":  6 }
+  ],
+
+  "links":  [
+    { "source":  2,  "target":  1,  "value":  1 },
+    { "source":  3,  "target":  1,  "value":  8 },
+    { "source":  4,  "target":  1,  "value": 10 },
+    { "source":  5,  "target":  1,  "value": 10 },
+    { "source":  6,  "target":  1,  "value": 10 }
+  ]
+}
